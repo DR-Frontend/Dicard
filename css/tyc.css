@@ -1,0 +1,19 @@
+.terms h2{
+    font-size: .9em;
+    margin-bottom: 5px;
+}
+.terms a{
+    color: var(--blanco);
+}
+.terms p,
+.terms ul li{
+    font-size: .8em;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+@media screen and (min-width: 1024px){
+    section {
+        padding: 70px 150px 10px;
+    }
+}

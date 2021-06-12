@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.923" height="20" viewBox="0 0 16.923 20">
+  <g id="Grupo_35" data-name="Grupo 35" transform="translate(-796.066 -1158.805)">
+    <circle id="Elipse_1" data-name="Elipse 1" cx="2.308" cy="2.308" r="2.308" transform="translate(806.835 1160.343)" fill="none"/>
+    <circle id="Elipse_2" data-name="Elipse 2" cx="2.308" cy="2.308" r="2.308" transform="translate(797.605 1166.497)" fill="none"/>
+    <circle id="Elipse_3" data-name="Elipse 3" cx="2.308" cy="2.308" r="2.308" transform="translate(806.835 1172.651)" fill="none"/>
+    <path id="Trazado_89" data-name="Trazado 89" d="M809.143,1171.113a3.832,3.832,0,0,0-2.7,1.115l-2.965-1.975a3.82,3.82,0,0,0,0-2.9l2.964-1.974a3.857,3.857,0,1,0-.854-1.28l-2.965,1.975a3.846,3.846,0,1,0,0,5.458l2.964,1.974a3.845,3.845,0,1,0,3.559-2.395Zm0-10.769a2.308,2.308,0,1,1-2.308,2.308A2.31,2.31,0,0,1,809.143,1160.344Zm-9.231,10.769a2.308,2.308,0,1,1,2.308-2.308A2.311,2.311,0,0,1,799.912,1171.113Zm9.231,6.154a2.308,2.308,0,1,1,2.308-2.308A2.311,2.311,0,0,1,809.143,1177.267Z" transform="translate(0)" fill="#fff"/>
+  </g>
+</svg>
